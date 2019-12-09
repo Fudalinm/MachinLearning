@@ -1,0 +1,67 @@
+TWO_LARGEST  [4, 1]
+alg_worst:  MW7
+alg_best:  EM1
+[['EM7', 0.7244094488188977], ['EM7', 0.698019801980198], ['EW7', 0.8359375], ['MW7', 0.5808823529411765], ['MW7', 0.5524861878453039], ['EM7', 0.7553191489361702]]
+[['EM1', 0.952755905511811], ['EM1', 0.9455445544554455], ['EM1', 0.921875], ['EM1', 0.7426470588235294], ['EM1', 0.9005524861878453], ['MM1', 0.9840425531914894]]
+####################################################
+4
+irregular.jpg
+WORST: MW7
+	accuracy 0.5524861878453039
+	name outcome_wage_mahalanobis_7_result_irregular.jpg
+	Confusion matrix
+[[39.  1.  1.]
+ [27. 27. 30.]
+ [13.  9. 34.]]
+[['red', R_precision, R_recall,R_specifity , R_F1, R_G], ['green', G_precision, G_recall,G_specifity, G_F1, G_G], ['blue', B_precision, B_recall,B_specifity , B_F1, B_G]
+[['red', 0.9512195121951219, 0.4936708860759494, 0.9803921568627451, 0.65, 0.6852659187775927],
+ ['green', 0.32142857142857145, 0.7297297297297297, 0.6041666666666666, 0.44628099173553715, 0.4843098022505683],
+ ['blue', 0.6071428571428571, 0.5230769230769231, 0.8103448275862069, 0.5619834710743802, 0.5635445125120265]]
+BEST: EM1
+	accuracy 0.9005524861878453
+	name outcome_most_euclidean_1_result_irregular.jpg
+	Confusion matrix
+[[75.  4.  1.]
+ [ 3. 27.  3.]
+ [ 1.  6. 61.]]
+[['red', R_precision, R_recall,R_specifity , R_F1, R_G], ['green', G_precision, G_recall,G_specifity, G_F1, G_G], ['blue', B_precision, B_recall,B_specifity , B_F1, B_G]
+[['red', 0.9375, 0.9493670886075949, 0.9509803921568627, 0.9433962264150944, 0.9434148851749268],
+['green', 0.8181818181818182, 0.7297297297297297, 0.9583333333333334, 0.7714285714285715, 0.7726911394933923],
+['blue', 0.8970588235294118, 0.9384615384615385, 0.9396551724137931, 0.9172932330827067, 0.9175266773341849]]
+####################################################
+alg_worst:  EM7
+alg_best:  EM1
+[['EM7', 0.7244094488188977], ['EM7', 0.698019801980198], ['EW7', 0.8359375], ['MW7', 0.5808823529411765], ['MW7', 0.5524861878453039], ['EM7', 0.7553191489361702]]
+[['EM1', 0.952755905511811], ['EM1', 0.9455445544554455], ['EM1', 0.921875], ['EM1', 0.7426470588235294], ['EM1', 0.9005524861878453], ['MM1', 0.9840425531914894]]
+C:/Users/fudal/Desktop/Informatyka agh/ROKIV/PUM/PUM_PROJECTS/LAB2/kN.py:508: RuntimeWarning: invalid value encountered in double_scalars
+  G_F1 = (2 * G_precision * G_recall) / (G_precision + G_recall)
+####################################################
+1
+one_on_another.jpg
+WORST: EM7
+	accuracy 0.698019801980198
+	name outcome_most_euclidean_7_result_one_on_another.jpg
+	Confusion matrix
+[[62.  1.  4.]
+ [ 2.  0.  0.]
+ [ 9. 45. 79.]]
+[['red', R_precision, R_recall,R_specifity , R_F1, R_G], ['green', G_precision, G_recall,G_specifity, G_F1, G_G], ['blue', B_precision, B_recall,B_specifity , B_F1, B_G]
+[['red', 0.9253731343283582, 0.8493150684931506, 0.9612403100775194, 0.8857142857142857, 0.8865288190260997],
+ ['green', 0.0, 0.0, 0.9871794871794872, nan, 0.0],
+ ['blue', 0.5939849624060151, 0.9518072289156626, 0.5462184873949579, 0.7314814814814814, 0.751903704662534]]
+BEST: EM1
+	accuracy 0.9455445544554455
+	name outcome_most_euclidean_1_result_one_on_another.jpg
+	Confusion matrix
+[[66.  0.  4.]
+ [ 0. 46.  0.]
+ [ 7.  0. 79.]]
+[['red', R_precision, R_recall,R_specifity , R_F1, R_G], ['green', G_precision, G_recall,G_specifity, G_F1, G_G], ['blue', B_precision, B_recall,B_specifity , B_F1, B_G]
+[['red', 0.9428571428571428, 0.9041095890410958, 0.9689922480620154, 0.923076923076923, 0.9232801221476791],
+['green', 1.0, 1.0, 1.0, 1.0, 1.0],
+['blue', 0.9186046511627907, 0.9518072289156626, 0.9411764705882353, 0.9349112426035502, 0.9350585797116108]]
+####################################################
+##ROC##
+[0.9509803921568627, 0.9583333333333334, 0.9396551724137931, 0.9803921568627451, 0.6041666666666666, 0.8103448275862069, 0.9689922480620154, 1.0, 0.9411764705882353, 0.9612403100775194, 0.9871794871794872, 0.5462184873949579]
+[0.9493670886075949, 0.7297297297297297, 0.9384615384615385, 0.4936708860759494, 0.7297297297297297, 0.5230769230769231, 0.9041095890410958, 1.0, 0.9518072289156626, 0.8493150684931506, 0.0, 0.9518072289156626]
+['irregular.jpgredEM1', 'irregular.jpggreenEM1', 'irregular.jpgblueEM1', 'irregular.jpgredMW7', 'irregular.jpggreenMW7', 'irregular.jpgblueMW7', 'one_on_another.jpgredEM1', 'one_on_another.jpggreenEM1', 'one_on_another.jpgblueEM1', 'one_on_another.jpgredEM7', 'one_on_another.jpggreenEM7', 'one_on_another.jpgblueEM7']

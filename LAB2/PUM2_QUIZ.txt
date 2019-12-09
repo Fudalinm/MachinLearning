@@ -1,0 +1,74 @@
+klątwa wymiaru, co to, jakie konsekwencje dla uczenia maszynowego?
+     do analizy wiekszych wymiarow potrzebujemy wykladniczo wiecej danych.
+     
+co tu uczenie z nadzorem i bez
+    z nadzorem  
+        takie w ktorym posiadamy zbior testowy w ktorym jestesmy pewnii 
+        poprawnosci sklasyfikowania poszczegolnych zdjec i na ich bazie
+        chcemy wyznaczyc klasyfikator w ogolnym przypadku
+    bez nadzoru
+        dane wprowadzone nie sa w zadanen sposob oznaczone. system odrazu 
+        ma sam wykryc klasy i znalezc na nie przepis     
+
+co to model parametryczny i nieparametryczny
+    model parametryczny zaklada jaka postac ma funkcja mapujaca
+    model nieparametryczny nie ma takich zzalozen tworza dowolna funkcje 
+
+metoda k-Nearest Neighbours, podstawa działania
+    mamy sobie zbior punktow etykietowanych (uczenie z nadzworem) wiemy
+    do jakich klas naleza. Potem otrzymujemy punkt do sklasyfikowania
+    i sprawdzamy ktory ze znanych nam punktow jest najblizej do danego do 
+    sklasyfikowania. Moze byc wazone lub wiekszosciowe i z rozna miara odleglosci
+    
+
+na co wpływa parametr k
+    na ilosc najblizszych wieszcholkow brancyvch pod uwage przy analizie
+    dla 1 najblizysz wierzcholek decyduje o klasie danego punktu
+    dla 7 decyduje wiekszosc lub blizsza wiekszosc
+
+co to jest overfitting
+    jest to stworzenie modelu ktory poprawnie klasysyfikuje prawie caly 
+    zbior albo nawet caly przez co przewidywanie nowych danych moze
+    byc niemozliwe/mniej skuteczne
+
+wpływ metryki na k-NN i jej granicę decyzyjną
+    to jak mierzymy najblizszy punkt do danego do sklasyfikowania?
+    co wiecej? reszta to specyfika metryki jak to sie zahowa
+
+metryka Mahalanobisa - co to i po co to
+    mierzy podobienstwo nienzanego wektora z ze zbiorem o znanej charakterystyce
+    potrzebne do jej wyznaczenia jest nam macierz kowariancji znanego zbioru
+    i oczywiscie 2 punkty.
+    "roznicuje wklad poszczegolnych skladowyh wektora na wynik
+
+####
+jak użyć najbliższych sąsiadów do zamiany danych niewektorowych na wektorowe
+    ####
+
+jak badać skuteczność klasyfikatora: accuracy, true/false positives/negatives, 
+precision, recall, F1 score, G-score, wykresy ROC i PRC
+    macierz pomylem (confusion matrix) (TP,TN,FP,FN)
+
+zbiór treningowy, walidacyjny i testowy, po co to
+    treningowy po to aby nauczyc nasz algorytm klasyfikacji czy dac
+                mu jakies dane na bazie ktorych ma operowac.
+    walidacyjny jest to zbior przykladow sluzacy do dogrania hiperparametrow
+                architektury klasyfikatora. (liczba ukrytych jednostek).
+                powinien miec taki sam rozklad prawdopodbienstwa jak zbior
+                treningowy
+    
+    testowy aby zweryfikowac skutecznosc naszego klasyfikatora
+
+    sluzy do oceny zdolnosci modelu 
+k-fold cross validation
+    bierzemy caly zbior danych
+    dzielimy go na k podzbiorow
+    for i in range(k)
+        wez i'ty zbior jako zbior destowy
+        pozostale wez jako zbior treningowy
+        uzyj pozostalych do wytrenowania modelu
+        zweryfikuj jego osiagi i zapisz
+        odrzuc model
+    podsumuj wszystkie swoje wyniki i wyciagnij wnioski co do zdolnosci
+    danego modelu
+

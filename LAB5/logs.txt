@@ -1,0 +1,433 @@
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\python.exe "C:/Users/fudal/Desktop/Informatyka agh/ROKIV/PUM/PUM_PROJECTS/LAB5/SVM.py"
+figs/linear_c0.1_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c0.5_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c0.7_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c1_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c1.3_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c2_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c2.5_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c3_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c5_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/linear_c7_g1.png
+BAD:  14
+ACCURACY:  0.8426966292134831
+figs/rbf_c0.1_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  43
+ACCURACY:  0.5168539325842697
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c0.1_g1.png
+  "avoid this warning.", FutureWarning)
+BAD:  43
+ACCURACY:  0.5168539325842697
+figs/rbf_c0.1_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  43
+ACCURACY:  0.5168539325842697
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c0.1_g100.png
+BAD:  43
+ACCURACY:  0.5168539325842697
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c0.5_g0.1.png
+  "avoid this warning.", FutureWarning)
+BAD:  41
+ACCURACY:  0.5393258426966292
+figs/rbf_c0.5_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  41
+ACCURACY:  0.5393258426966292
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c0.5_g10.png
+  "avoid this warning.", FutureWarning)
+BAD:  41
+ACCURACY:  0.5393258426966292
+figs/rbf_c0.5_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  41
+ACCURACY:  0.5393258426966292
+figs/rbf_c0.7_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c0.7_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c0.7_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c0.7_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c1_g0.1.png
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c1_g1.png
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c1_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c1_g100.png
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c1.3_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c1.3_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c1.3_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c1.3_g100.png
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c2_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c2_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c2_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c2_g100.png
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c2.5_g0.1.png
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c2.5_g1.png
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c2.5_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c2.5_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c3_g0.1.png
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c3_g1.png
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c3_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c3_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c5_g0.1.png
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c5_g1.png
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c5_g10.png
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/rbf_c5_g100.png
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c7_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c7_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+figs/rbf_c7_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  0
+ACCURACY:  1.0
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/rbf_c7_g100.png
+BAD:  0
+ACCURACY:  1.0
+figs/poly_c0.1_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  17
+ACCURACY:  0.8089887640449438
+figs/poly_c0.1_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  17
+ACCURACY:  0.8089887640449438
+figs/poly_c0.1_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  17
+ACCURACY:  0.8089887640449438
+figs/poly_c0.1_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  17
+ACCURACY:  0.8089887640449438
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c0.5_g0.1.png
+  "avoid this warning.", FutureWarning)
+BAD:  19
+ACCURACY:  0.7865168539325843
+figs/poly_c0.5_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  19
+ACCURACY:  0.7865168539325843
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c0.5_g10.png
+  "avoid this warning.", FutureWarning)
+BAD:  19
+ACCURACY:  0.7865168539325843
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c0.5_g100.png
+BAD:  19
+ACCURACY:  0.7865168539325843
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c0.7_g0.1.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c0.7_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c0.7_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c0.7_g100.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c1_g0.1.png
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c1_g1.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c1_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c1_g100.png
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c1.3_g0.1.png
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c1.3_g1.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c1.3_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c1.3_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c2_g0.1.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c2_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c2_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c2_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c2.5_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c2.5_g1.png
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c2.5_g10.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+figs/poly_c2.5_g100.png
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c3_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c3_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c3_g10.png
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c3_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c5_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c5_g1.png
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c5_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c5_g100.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c7_g0.1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c7_g1.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+figs/poly_c7_g10.png
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+BAD:  18
+ACCURACY:  0.797752808988764
+C:\Users\fudal\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+figs/poly_c7_g100.png
+BAD:  18
+ACCURACY:  0.797752808988764
+
+Process finished with exit code 0
